@@ -1,6 +1,6 @@
 # WeSplit
 
-WeSplit is an app to Split the check and tip^s with friends
+WeSplit is an app to Split the check and tips with friends
 
 ## Usage
 
